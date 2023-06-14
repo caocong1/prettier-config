@@ -1,6 +1,6 @@
 {
   "name": "@caocong/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自用prettier配置",
   "main": "index.js",
   "author": "caocong",
